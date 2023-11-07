@@ -1,0 +1,673 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ASFItemDropper\\ASFItemDropper.csproj": {}
+  },
+  "projects": {
+    "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ArchiSteamFarm\\ArchiSteamFarm\\ArchiSteamFarm.csproj": {
+      "version": "5.4.2.13",
+      "restore": {
+        "projectUniqueName": "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ArchiSteamFarm\\ArchiSteamFarm\\ArchiSteamFarm.csproj",
+        "projectName": "ArchiSteamFarm",
+        "projectPath": "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ArchiSteamFarm\\ArchiSteamFarm\\ArchiSteamFarm.csproj",
+        "packagesPath": "C:\\Users\\Ksard\\.nuget\\packages\\",
+        "outputPath": "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ArchiSteamFarm\\ArchiSteamFarm\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\Ksard\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481",
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          },
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AngleSharp.XPath": {
+              "target": "Package",
+              "version": "[2.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "ConfigureAwaitChecker.Analyzer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "CryptSharpStandard": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )",
+              "versionCentrallyManaged": true
+            },
+            "JetBrains.Annotations": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2022.3.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Markdig.Signed": {
+              "target": "Package",
+              "version": "[0.30.4, )",
+              "versionCentrallyManaged": true
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )",
+              "versionCentrallyManaged": true
+            },
+            "Nito.AsyncEx.Coordination": {
+              "target": "Package",
+              "version": "[5.1.2, )",
+              "versionCentrallyManaged": true
+            },
+            "SteamKit2": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.5.0, )",
+              "versionCentrallyManaged": true
+            },
+            "System.Composition": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "System.Security.Cryptography.ProtectedData": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "zxcvbn-core": {
+              "target": "Package",
+              "version": "[7.0.92, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AngleSharp.XPath": "[2.0.1, )",
+            "ConfigureAwaitChecker.Analyzer": "[5.0.0.1, )",
+            "CryptSharpStandard": "[1.0.0, )",
+            "Humanizer": "[2.14.1, )",
+            "JetBrains.Annotations": "[2022.3.1, )",
+            "Markdig.Signed": "[0.30.4, )",
+            "Microsoft.NET.Test.Sdk": "[17.4.1, )",
+            "MSTest.TestAdapter": "[3.0.2, )",
+            "MSTest.TestFramework": "[3.0.2, )",
+            "Newtonsoft.Json": "[13.0.2, )",
+            "Nito.AsyncEx.Coordination": "[5.1.2, )",
+            "NLog.Web.AspNetCore": "[5.2.1, )",
+            "SteamKit2": "[2.4.1, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Annotations": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Newtonsoft": "[6.5.0, )",
+            "System.Composition": "[7.0.0, )",
+            "System.Composition.AttributedModel": "[7.0.0, )",
+            "System.Linq.Async": "[6.0.1, )",
+            "System.Security.Cryptography.ProtectedData": "[7.0.0, )",
+            "zxcvbn-core": "[7.0.92, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-arm",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[7.0.10, 7.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        },
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "AngleSharp.XPath": {
+              "target": "Package",
+              "version": "[2.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "ConfigureAwaitChecker.Analyzer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "CryptSharpStandard": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )",
+              "versionCentrallyManaged": true
+            },
+            "JetBrains.Annotations": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2022.3.1, )",
+              "versionCentrallyManaged": true
+            },
+            "JustArchiNET.Madness": {
+              "target": "Package",
+              "version": "[3.10.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Markdig.Signed": {
+              "target": "Package",
+              "version": "[0.30.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Diagnostics": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.HttpOverrides": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.ResponseCaching": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.ResponseCompression": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.WebSockets": {
+              "target": "Package",
+              "version": "[2.2.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.32, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Logging.Configuration": {
+              "target": "Package",
+              "version": "[3.1.32, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )",
+              "versionCentrallyManaged": true
+            },
+            "Nito.AsyncEx.Coordination": {
+              "target": "Package",
+              "version": "[5.1.2, )",
+              "versionCentrallyManaged": true
+            },
+            "SteamKit2": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.5.0, )",
+              "versionCentrallyManaged": true
+            },
+            "System.Composition": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "TA.System.Runtime.CompilerServices.RuntimeHelpers.GetSubArray": {
+              "target": "Package",
+              "version": "[1.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "zxcvbn-core": {
+              "target": "Package",
+              "version": "[7.0.92, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AngleSharp.XPath": "[2.0.1, )",
+            "ConfigureAwaitChecker.Analyzer": "[5.0.0.1, )",
+            "CryptSharpStandard": "[1.0.0, )",
+            "Humanizer": "[2.14.1, )",
+            "JetBrains.Annotations": "[2022.3.1, )",
+            "JustArchiNET.Madness": "[3.10.0, )",
+            "Markdig.Signed": "[0.30.4, )",
+            "Microsoft.AspNetCore.Cors": "[2.2.0, )",
+            "Microsoft.AspNetCore.Diagnostics": "[2.2.0, )",
+            "Microsoft.AspNetCore.HttpOverrides": "[2.2.0, )",
+            "Microsoft.AspNetCore.Mvc.Core": "[2.2.5, )",
+            "Microsoft.AspNetCore.ResponseCaching": "[2.2.0, )",
+            "Microsoft.AspNetCore.ResponseCompression": "[2.2.0, )",
+            "Microsoft.AspNetCore.Server.Kestrel": "[2.2.0, )",
+            "Microsoft.AspNetCore.WebSockets": "[2.2.1, )",
+            "Microsoft.Extensions.Configuration.Json": "[3.1.32, )",
+            "Microsoft.Extensions.Logging.Configuration": "[3.1.32, )",
+            "Microsoft.NET.Test.Sdk": "[17.4.1, )",
+            "MSTest.TestAdapter": "[3.0.2, )",
+            "MSTest.TestFramework": "[3.0.2, )",
+            "Newtonsoft.Json": "[13.0.2, )",
+            "Nito.AsyncEx.Coordination": "[5.1.2, )",
+            "NLog.Web.AspNetCore": "[5.2.1, )",
+            "SteamKit2": "[2.4.1, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Annotations": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Newtonsoft": "[6.5.0, )",
+            "System.Composition": "[7.0.0, )",
+            "System.Composition.AttributedModel": "[7.0.0, )",
+            "System.Linq.Async": "[6.0.1, )",
+            "TA.System.Runtime.CompilerServices.RuntimeHelpers.GetSubArray": "[1.0.1, )",
+            "zxcvbn-core": "[7.0.92, )"
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        },
+        "linux-arm64": {
+          "#import": []
+        },
+        "linux-x64": {
+          "#import": []
+        },
+        "osx-arm64": {
+          "#import": []
+        },
+        "osx-x64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ASFItemDropper\\ASFItemDropper.csproj": {
+      "version": "0.3.5.3",
+      "restore": {
+        "projectUniqueName": "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ASFItemDropper\\ASFItemDropper.csproj",
+        "projectName": "ASFItemDropper",
+        "projectPath": "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ASFItemDropper\\ASFItemDropper.csproj",
+        "packagesPath": "C:\\Users\\Ksard\\.nuget\\packages\\",
+        "outputPath": "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ASFItemDropper\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\Ksard\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ArchiSteamFarm\\ArchiSteamFarm\\ArchiSteamFarm.csproj": {
+                "projectPath": "D:\\Delete\\ASF_ItemDropper-0.3.5.3\\ArchiSteamFarm\\ArchiSteamFarm\\ArchiSteamFarm.csproj",
+                "excludeAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[13.0.2, )",
+              "versionCentrallyManaged": true
+            },
+            "SteamKit2": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "System.Composition.AttributedModel": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AngleSharp.XPath": "[2.0.1, )",
+            "ConfigureAwaitChecker.Analyzer": "[5.0.0.1, )",
+            "CryptSharpStandard": "[1.0.0, )",
+            "Humanizer": "[2.14.1, )",
+            "JetBrains.Annotations": "[2022.3.1, )",
+            "Markdig.Signed": "[0.30.4, )",
+            "Microsoft.NET.Test.Sdk": "[17.4.1, )",
+            "MSTest.TestAdapter": "[3.0.2, )",
+            "MSTest.TestFramework": "[3.0.2, )",
+            "Newtonsoft.Json": "[13.0.2, )",
+            "Nito.AsyncEx.Coordination": "[5.1.2, )",
+            "NLog.Web.AspNetCore": "[5.2.1, )",
+            "SteamKit2": "[2.4.1, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Annotations": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Newtonsoft": "[6.5.0, )",
+            "System.Composition": "[7.0.0, )",
+            "System.Composition.AttributedModel": "[7.0.0, )",
+            "System.Linq.Async": "[6.0.1, )",
+            "System.Security.Cryptography.ProtectedData": "[7.0.0, )",
+            "zxcvbn-core": "[7.0.92, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-arm",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
+              "version": "[7.0.10, 7.0.10]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[7.0.10, 7.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        },
+        "linux-arm64": {
+          "#import": []
+        },
+        "linux-x64": {
+          "#import": []
+        },
+        "osx-arm64": {
+          "#import": []
+        },
+        "osx-x64": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

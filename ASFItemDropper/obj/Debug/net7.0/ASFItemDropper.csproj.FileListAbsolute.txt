@@ -1,0 +1,12 @@
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\bin\Debug\net7.0\ASFItemDropper.deps.json
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\bin\Debug\net7.0\ASFItemDropper.dll
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\bin\Debug\net7.0\ASFItemDropper.pdb
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\ASFItemDropper.csproj.AssemblyReference.cache
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\ASFItemDropper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\ASFItemDropper.AssemblyInfoInputs.cache
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\ASFItemDropper.AssemblyInfo.cs
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\ASFItemDropper.csproj.CoreCompileInputs.cache
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\ASFItemDropper.dll
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\refint\ASFItemDropper.dll
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\ASFItemDropper.pdb
+D:\Delete\ASF_ItemDropper-0.3.5.3\ASFItemDropper\obj\Debug\net7.0\ref\ASFItemDropper.dll
