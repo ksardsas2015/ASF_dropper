@@ -1,3 +1,6 @@
+# DEISCLAIMER
+The original developer's code was fucked up. Don't expect this one to be any better. I just removed all the shit and fixed the bugs that were critical using CHATGPT.
+
 # ASF Item Dropper
 
 #### `idrop <bots> <appid> <drop definition>`
